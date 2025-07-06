@@ -1,0 +1,20 @@
+.odd {
+    color: black;
+    background-color: lightcoral;
+}
+
+#two{
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+}
+
+#four{
+    color: black;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+.sizeadjuster {
+    font-size: 24px;
+}
